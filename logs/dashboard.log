@@ -1,0 +1,1354 @@
+2024-10-31 15:34:53,800 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,801 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,800 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,804 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,801 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,800 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,805 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,804 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,801 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,805 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,800 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,805 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,804 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,801 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,805 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,800 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,804 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,805 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,801 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,805 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,805 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,804 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,805 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,805 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,815 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,817 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,821 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,805 - main - INFO - Starting dashboard application
+2024-10-31 15:34:53,815 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,817 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,815 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,821 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,824 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,817 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,821 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,815 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,815 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,824 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,817 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,821 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,824 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,817 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,824 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,821 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:53,824 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:54,501 - ElectionDashboard - INFO - Fetching date range from database
+2024-10-31 15:34:54,501 - ElectionDashboard - INFO - Fetching date range from database
+2024-10-31 15:34:54,501 - ElectionDashboard - INFO - Fetching date range from database
+2024-10-31 15:34:54,501 - ElectionDashboard - INFO - Fetching date range from database
+2024-10-31 15:34:54,501 - ElectionDashboard - INFO - Fetching date range from database
+2024-10-31 15:34:54,593 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:54,593 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:54,593 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:54,593 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:54,593 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 15:34:54,971 - ElectionDashboard - INFO - Date range: 2024-10-29 00:39:47+00:00 to 2024-10-31 12:49:49+00:00
+2024-10-31 15:34:54,971 - ElectionDashboard - INFO - Date range: 2024-10-29 00:39:47+00:00 to 2024-10-31 12:49:49+00:00
+2024-10-31 15:34:54,971 - ElectionDashboard - INFO - Date range: 2024-10-29 00:39:47+00:00 to 2024-10-31 12:49:49+00:00
+2024-10-31 15:34:54,971 - ElectionDashboard - INFO - Date range: 2024-10-29 00:39:47+00:00 to 2024-10-31 12:49:49+00:00
+2024-10-31 15:34:54,971 - ElectionDashboard - INFO - Date range: 2024-10-29 00:39:47+00:00 to 2024-10-31 12:49:49+00:00
+2024-10-31 15:34:54,984 - ElectionDashboard - INFO - Fetching metrics for date range: Wed Oct 16 00:00:00 +0000 2024 to Fri Nov 08 23:59:59 +0000 2024
+2024-10-31 15:34:54,985 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:54,984 - ElectionDashboard - INFO - Fetching metrics for date range: Wed Oct 16 00:00:00 +0000 2024 to Fri Nov 08 23:59:59 +0000 2024
+2024-10-31 15:34:54,984 - ElectionDashboard - INFO - Fetching metrics for date range: Wed Oct 16 00:00:00 +0000 2024 to Fri Nov 08 23:59:59 +0000 2024
+2024-10-31 15:34:54,985 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:54,985 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:54,984 - ElectionDashboard - INFO - Fetching metrics for date range: Wed Oct 16 00:00:00 +0000 2024 to Fri Nov 08 23:59:59 +0000 2024
+2024-10-31 15:34:54,985 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:54,984 - ElectionDashboard - INFO - Fetching metrics for date range: Wed Oct 16 00:00:00 +0000 2024 to Fri Nov 08 23:59:59 +0000 2024
+2024-10-31 15:34:54,985 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:55,458 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,458 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,461 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+2024-10-31 15:34:55,458 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,461 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+2024-10-31 15:34:55,458 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,461 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+2024-10-31 15:34:55,458 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,461 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+2024-10-31 15:34:55,461 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+2024-10-31 15:34:55,467 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,467 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:55,467 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,467 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:55,467 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,469 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+2024-10-31 15:34:55,467 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:55,467 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,469 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+2024-10-31 15:34:55,467 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:55,467 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,469 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+2024-10-31 15:34:55,467 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:55,469 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+2024-10-31 15:34:55,469 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Wed Oct 16 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Fri Nov 08 23:59:59 +0000 2024}
+2024-10-31 15:34:55,734 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,734 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,734 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,734 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,734 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,738 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,740 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:55,738 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,740 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:55,738 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,740 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:55,738 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,740 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:55,738 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:55,740 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:56,243 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,243 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,243 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,243 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,243 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,247 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,248 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:56,247 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,248 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:56,247 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,248 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:56,247 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,248 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:56,247 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,248 - ElectionDashboard - INFO - Fetching metrics for date range: Tue Oct 29 00:00:00 +0000 2024 to Thu Oct 31 23:59:59 +0000 2024
+2024-10-31 15:34:56,756 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,756 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,756 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,756 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,756 - ElectionDashboard - ERROR - Error getting aggregated metrics: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,762 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,762 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,762 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,762 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 15:34:56,762 - main - ERROR - Error processing data: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+Traceback (most recent call last):
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 287, in main
+    metrics = dashboard.get_aggregated_metrics(start_date, end_date)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 210, in wrapper
+    return cached_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 239, in __call__
+    return self._get_or_create_cached_value(args, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 266, in _get_or_create_cached_value
+    return self._handle_cache_miss(cache, value_key, func_args, func_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\streamlit\runtime\caching\cache_utils.py", line 322, in _handle_cache_miss
+    computed_value = self._info.func(*func_args, **func_kwargs)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\Documents\dhbw\sem5\bigdata\project\BigData\dashboard.py", line 140, in get_aggregated_metrics
+    response = _self.cleansed_table.scan(**scan_params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\factory.py", line 581, in do_action
+    response = action(self, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\boto3\resources\action.py", line 88, in __call__
+    response = getattr(parent.meta.client, operation_name)(*args, **params)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 569, in _api_call
+    return self._make_api_call(operation_name, kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\jonas\anaconda3\Lib\site-packages\botocore\client.py", line 1023, in _make_api_call
+    raise error_class(parsed_response, operation_name)
+botocore.exceptions.ClientError: An error occurred (ValidationException) when calling the Scan operation: Invalid FilterExpression: The BETWEEN operator requires upper bound to be greater than or equal to lower bound; lower bound operand: AttributeValue: {S:Tue Oct 29 00:00:00 +0000 2024}, upper bound operand: AttributeValue: {S:Thu Oct 31 23:59:59 +0000 2024}
+2024-10-31 16:11:24,030 - main - INFO - Starting dashboard application
+2024-10-31 16:11:24,030 - main - INFO - Starting dashboard application
+2024-10-31 16:11:24,031 - main - INFO - Starting dashboard application
+2024-10-31 16:11:24,034 - main - INFO - Starting dashboard application
+2024-10-31 16:11:24,035 - main - INFO - Starting dashboard application
+2024-10-31 16:11:24,037 - main - INFO - Starting dashboard application
+2024-10-31 16:11:24,038 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:24,035 - main - INFO - Starting dashboard application
+2024-10-31 16:11:24,039 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:24,037 - main - INFO - Starting dashboard application
+2024-10-31 16:11:24,040 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:24,038 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:24,041 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:24,039 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:24,040 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:24,044 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:24,041 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:24,044 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:24,780 - ElectionDashboard - INFO - Fetching metrics for date range: 2024-10-29 00:00:00 to 2024-10-31 23:59:59.999999
+2024-10-31 16:11:24,780 - ElectionDashboard - INFO - Fetching metrics for date range: 2024-10-29 00:00:00 to 2024-10-31 23:59:59.999999
+2024-10-31 16:11:24,848 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:24,848 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:25,025 - ElectionDashboard - INFO - Fetching metrics for date range: 2024-10-16 00:00:00 to 2024-11-08 23:59:59.999999
+2024-10-31 16:11:25,025 - ElectionDashboard - INFO - Fetching metrics for date range: 2024-10-16 00:00:00 to 2024-11-08 23:59:59.999999
+2024-10-31 16:11:25,392 - ElectionDashboard - INFO - Retrieved metrics: {'total_posts': 88, 'total_engagement': 1930704.0, 'unique_authors': 72, 'languages': 4}
+2024-10-31 16:11:25,392 - ElectionDashboard - INFO - Retrieved metrics: {'total_posts': 88, 'total_engagement': 1930704.0, 'unique_authors': 72, 'languages': 4}
+2024-10-31 16:11:25,414 - ElectionDashboard - INFO - Fetching candidate trends for date range: 2024-10-29 00:00:00 to 2024-10-31 23:59:59.999999
+2024-10-31 16:11:25,414 - ElectionDashboard - INFO - Fetching candidate trends for date range: 2024-10-29 00:00:00 to 2024-10-31 23:59:59.999999
+2024-10-31 16:11:25,532 - ElectionDashboard - INFO - Retrieved metrics: {'total_posts': 88, 'total_engagement': 1930704.0, 'unique_authors': 72, 'languages': 4}
+2024-10-31 16:11:25,532 - ElectionDashboard - INFO - Retrieved metrics: {'total_posts': 88, 'total_engagement': 1930704.0, 'unique_authors': 72, 'languages': 4}
+2024-10-31 16:11:25,538 - ElectionDashboard - INFO - Fetching candidate trends for date range: 2024-10-16 00:00:00 to 2024-11-08 23:59:59.999999
+2024-10-31 16:11:25,538 - ElectionDashboard - INFO - Fetching candidate trends for date range: 2024-10-16 00:00:00 to 2024-11-08 23:59:59.999999
+2024-10-31 16:11:25,631 - ElectionDashboard - INFO - Retrieved trends data with shape (9, 4)
+2024-10-31 16:11:25,631 - ElectionDashboard - INFO - Retrieved trends data with shape (9, 4)
+2024-10-31 16:11:25,919 - ElectionDashboard - INFO - Retrieved trends data with shape (9, 4)
+2024-10-31 16:11:25,919 - ElectionDashboard - INFO - Retrieved trends data with shape (9, 4)
+2024-10-31 16:11:35,833 - main - INFO - Starting dashboard application
+2024-10-31 16:11:35,834 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:37,273 - main - INFO - Starting dashboard application
+2024-10-31 16:11:37,274 - ElectionDashboard - INFO - Initializing Election Dashboard
+2024-10-31 16:11:37,446 - ElectionDashboard - INFO - Fetching metrics for date range: 2024-10-15 00:00:00 to 2024-11-08 23:59:59.999999
+2024-10-31 16:11:37,991 - ElectionDashboard - INFO - Retrieved metrics: {'total_posts': 88, 'total_engagement': 1930704.0, 'unique_authors': 72, 'languages': 4}
+2024-10-31 16:11:37,997 - ElectionDashboard - INFO - Fetching candidate trends for date range: 2024-10-15 00:00:00 to 2024-11-08 23:59:59.999999
+2024-10-31 16:11:38,075 - ElectionDashboard - INFO - Retrieved trends data with shape (9, 4)

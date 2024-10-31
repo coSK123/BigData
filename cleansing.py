@@ -14,7 +14,8 @@ from decimal import Decimal
 import asyncio
 import re
 import random
-from pydantic import BaseModel
+from pydantic import BaseModel, Field, field_validator
+from logging.handlers import RotatingFileHandler
 
 class ProcessedFlag(Enum):
     NOT_PROCESSED = 0
@@ -23,19 +24,43 @@ class ProcessedFlag(Enum):
     ERROR = -1
 
 class PostMetrics(BaseModel):
-    replies: int = 0
-    retweets: int = 0
-    favorites: int = 0
-    views: int = 0
+    replies: int = Field(default=0, ge=0)
+    retweets: int = Field(default=0, ge=0)
+    favorites: int = Field(default=0, ge=0)
+    views: int = Field(default=0, ge=0)
 
 class Author(BaseModel):
-    id: Optional[str]
+    id: Optional[str] = None
     verified: bool = False
-    follower_count: int = 0
+    follower_count: int = Field(default=0, ge=0)
 
 class Location(BaseModel):
     raw_location: str
-    state: Optional[str]
+    state: Optional[str] = None
+
+class RawPost(BaseModel):
+    ID: str
+    Date: str
+    text: str
+    reply_count: Optional[int] = Field(default=0, ge=0)
+    retweet_count: Optional[int] = Field(default=0, ge=0)
+    favorite_count: Optional[int] = Field(default=0, ge=0)
+    views: Optional[int] = Field(default=0, ge=0)
+    user: Optional[Dict[str, Any]] = None
+    retweet: bool = False
+    language: Optional[str] = None
+    source: Optional[str] = None
+
+    @field_validator('Date')
+    @classmethod
+    def validate_date(cls, v: str) -> str:
+        try:
+            # Parse the Twitter-style date format
+            dt = datetime.strptime(v, '%a %b %d %H:%M:%S %z %Y')
+            # Convert to ISO format with microseconds
+            return dt.astimezone().isoformat()
+        except ValueError as e:
+            raise ValueError(f'Invalid date format: {e}')
 
 class CleansedPost(BaseModel):
     ID: str
@@ -49,16 +74,70 @@ class CleansedPost(BaseModel):
     author: Author
     location: Optional[Location]
     is_retweet: bool = False
-    language: Optional[str]
-    source_device: Optional[str]
+    language: Optional[str] = None
+    source_device: Optional[str] = None
 
+    def to_dynamodb_dict(self) -> dict:
+        """Convert the model to a DynamoDB-compatible dictionary"""
+        data = self.model_dump(exclude_none=True)
+        
+        # Convert nested models to dictionaries
+        if 'metrics' in data:
+            data['metrics'] = self.metrics.model_dump(exclude_none=True)
+        if 'author' in data:
+            data['author'] = self.author.model_dump(exclude_none=True)
+        if 'location' in data and self.location:
+            data['location'] = self.location.model_dump(exclude_none=True)
+            
+        return data
 
-# Configure logging
-logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s'
-)
-logger = logging.getLogger(__name__)
+def setup_logging() -> None:
+    """
+    Configure logging with different levels for console and file:
+    - Console: Only INFO and above, minimal format
+    - File: DEBUG and above, detailed format with all information
+    """
+    root_logger = logging.getLogger()
+    root_logger.handlers = []  # Clear existing handlers
+    root_logger.setLevel(logging.DEBUG)  # Capture all levels
+    
+    # Detailed formatter for file logging
+    file_formatter = logging.Formatter(
+        '%(asctime)s - %(name)s - %(levelname)s - %(funcName)s:%(lineno)d - %(message)s'
+    )
+    
+    # Simplified formatter for console
+    console_formatter = logging.Formatter(
+        '%(levelname)s: %(message)s'
+    )
+    
+    # File Handler - Detailed logging
+    if not os.path.exists('logs'):
+        os.makedirs('logs')
+    
+    file_handler = RotatingFileHandler(
+        'logs/cleansing.log',
+        maxBytes=10*1024*1024,  # 10MB
+        backupCount=5,
+        encoding='utf-8'
+    )
+    file_handler.setLevel(logging.DEBUG)
+    file_handler.setFormatter(file_formatter)
+    
+    # Console Handler - Only important messages
+    console_handler = logging.StreamHandler()
+    console_handler.setLevel(logging.WARNING)  # Only WARNING and above
+    console_handler.setFormatter(console_formatter)
+    
+    root_logger.addHandler(file_handler)
+    root_logger.addHandler(console_handler)
+
+    # Create a separate logger for the application
+    app_logger = logging.getLogger('cleansing')
+    app_logger.setLevel(logging.DEBUG)
+
+    # Modify messaging in the DataCleansingService class
+    return app_logger
 
 class DataCleansingService:
     def __init__(self, raw_table: str, cleansed_table: str, batch_size: int = 25):
@@ -72,15 +151,17 @@ class DataCleansingService:
         self.dynamodb = self.session.resource('dynamodb')
         self.raw_table = self.dynamodb.Table(raw_table)
         self.cleansed_table = self.dynamodb.Table(cleansed_table)
-        # Reduced batch size to prevent throughput issues
         self.batch_size = min(batch_size, 25)
         
-        # Initialize exponential backoff parameters
-        self.base_delay = 1  # Base delay in seconds
+        self.base_delay = 1
         self.max_retries = 5
-        self.max_delay = 32  # Maximum delay in seconds
+        self.max_delay = 32
+        
+        # Setup logging with new configuration
+        self.logger = setup_logging()
         
         self._initialize_reference_data()
+
 
     def _initialize_reference_data(self):
         """Initialize reference data for filtering"""
@@ -101,7 +182,7 @@ class DataCleansingService:
             jitter = delay * 0.1 * random.random()  # Add 10% jitter
             await asyncio.sleep(delay + jitter)
 
-    async def _scan_with_backoff(self, **kwargs):
+    async def _scan_with_backoff(self, **kwargs) -> Dict[str, Any]:
         """Perform DynamoDB scan with backoff and pagination handling"""
         for attempt in range(self.max_retries):
             try:
@@ -119,19 +200,15 @@ class DataCleansingService:
                     
                     last_evaluated_key = response.get('LastEvaluatedKey')
                     
-                    # If we're just counting or we've hit our limit, we can stop
                     if 'Select' in kwargs or (len(items) >= kwargs.get('Limit', float('inf'))):
                         break
                         
-                    # If no more pages, stop
                     if not last_evaluated_key:
                         break
                 
-                # If we're counting, return the count response
                 if 'Select' in kwargs and kwargs['Select'] == 'COUNT':
                     return response
                 
-                # Otherwise return items with pagination structure
                 return {
                     'Items': items[:kwargs.get('Limit', len(items))],
                     'Count': len(items),
@@ -142,7 +219,7 @@ class DataCleansingService:
                 if e.response['Error']['Code'] == 'ProvisionedThroughputExceededException':
                     if attempt == self.max_retries - 1:
                         raise
-                    logger.warning(f"Throughput exceeded, attempt {attempt + 1}/{self.max_retries}")
+                    logging.warning(f"Throughput exceeded, attempt {attempt + 1}/{self.max_retries}")
                     await self._exponential_backoff(attempt)
                 else:
                     raise
@@ -160,21 +237,23 @@ class DataCleansingService:
                 if e.response['Error']['Code'] == 'ProvisionedThroughputExceededException':
                     if attempt == self.max_retries - 1:
                         raise
-                    logger.warning(f"Throughput exceeded, attempt {attempt + 1}/{self.max_retries}")
+                    self.logger.warning(f"Throughput exceeded, attempt {attempt + 1}/{self.max_retries}")
                     await self._exponential_backoff(attempt)
                 else:
                     raise
 
-    async def _put_item_with_backoff(self, table, item):
+    async def _put_item_with_backoff(self, table, item: CleansedPost):
         """Perform DynamoDB put_item with backoff strategy"""
         for attempt in range(self.max_retries):
             try:
-                return table.put_item(Item=item)
+                # Convert Pydantic model to DynamoDB-compatible dictionary
+                item_dict = item.to_dynamodb_dict()
+                return table.put_item(Item=item_dict)
             except ClientError as e:
                 if e.response['Error']['Code'] == 'ProvisionedThroughputExceededException':
                     if attempt == self.max_retries - 1:
                         raise
-                    logger.warning(f"Put throughput exceeded, attempt {attempt + 1}/{self.max_retries}")
+                    self.logger.warning(f"Put throughput exceeded, attempt {attempt + 1}/{self.max_retries}")
                     await self._exponential_backoff(attempt)
                 else:
                     raise
@@ -184,15 +263,12 @@ class DataCleansingService:
         if not text:
             return ""
         
-        # Remove URLs
         text = re.sub(r'http\S+|www\S+|https\S+', '', text)
-        # Remove special characters but keep emojis
         text = re.sub(r'[^\w\s\u263a-\U0001f645]', ' ', text)
-        # Remove extra whitespace
         text = ' '.join(text.split())
         return text.lower()
 
-    def extract_mentions(self, text: str) -> Dict[str, list]:
+    def extract_mentions(self, text: str) -> Dict[str, List[str]]:
         """Extract candidate and party mentions"""
         text = text.lower()
         mentions = {
@@ -210,27 +286,25 @@ class DataCleansingService:
                 
         return mentions
 
-    def extract_location(self, location: Optional[str]) -> Optional[Dict[str, str]]:
+    def extract_location(self, location: Optional[str]) -> Optional[Location]:
         """Clean and structure location data"""
         if not location:
             return None
             
-        # Extract state from location if possible
         us_state_pattern = r'\b([A-Z]{2})\b'
         state_match = re.search(us_state_pattern, location.upper())
         
-        return {
-            'raw_location': location,
-            'state': state_match.group(1) if state_match else None
-        }
+        return Location(
+            raw_location=location,
+            state=state_match.group(1) if state_match else None
+        )
 
-    def cleanse_post(self, post: Dict[str, Any]) -> Optional[Dict[str, Any]]:
+    def cleanse_post(self, post: Dict[str, Any]) -> Optional[CleansedPost]:
         """Transform raw post into cleansed format"""
         try:
-            if not all(k in post for k in ['text', 'Date', 'ID']):
-                return None
-
-            text = self.clean_text(post['text'])
+            raw_post = RawPost(**post)
+            
+            text = self.clean_text(raw_post.text)
             if not text:
                 return None
 
@@ -238,42 +312,42 @@ class DataCleansingService:
             if not mentions['candidates'] and not mentions['parties']:
                 return None
 
-            user = post.get('user', {})
+            user = raw_post.user or {}
             
-            # Convert Decimal metrics to integers
-            metrics = {
-                'replies': int(post.get('reply_count', 0)) if isinstance(post.get('reply_count'), (Decimal, int)) else 0,
-                'retweets': int(post.get('retweet_count', 0)) if isinstance(post.get('retweet_count'), (Decimal, int)) else 0,
-                'favorites': int(post.get('favorite_count', 0)) if isinstance(post.get('favorite_count'), (Decimal, int)) else 0,
-                'views': int(post.get('views', 0)) if isinstance(post.get('views'), (Decimal, int)) else 0
-            }
+            metrics = PostMetrics(
+                replies=int(raw_post.reply_count or 0),
+                retweets=int(raw_post.retweet_count or 0),
+                favorites=int(raw_post.favorite_count or 0),
+                views=int(raw_post.views or 0)
+            )
             
-            cleansed_post = {
-                'ID': post['ID'],  # Primary key
-                'Date': post['Date'],  # Sort key
-                'text': text,
-                'created_at': post['Date'],
-                'processed_at': datetime.now().isoformat(),
-                'candidates_mentioned': mentions['candidates'],
-                'parties_mentioned': mentions['parties'],
-                'metrics': metrics,
-                'author': {
-                    'id': user.get('user_id'),
-                    'verified': bool(user.get('is_verified', False)),
-                    'follower_count': int(user.get('follower_count', 0)) if isinstance(user.get('follower_count'), (Decimal, int)) else 0
-                },
-                'location': self.extract_location(user.get('location')),
-                'is_retweet': bool(post.get('retweet', False)),
-                'language': post.get('language'),
-                'source_device': post.get('source')
-            }
+            author = Author(
+                id=user.get('user_id'),
+                verified=bool(user.get('is_verified', False)),
+                follower_count=int(user.get('follower_count', 0))
+            )
             
-            return cleansed_post
+            cleansed = CleansedPost(
+                ID=raw_post.ID,
+                Date=raw_post.Date,
+                text=text,
+                created_at=raw_post.Date,
+                processed_at=datetime.now().isoformat(),
+                candidates_mentioned=mentions['candidates'],
+                parties_mentioned=mentions['parties'],
+                metrics=metrics,
+                author=author,
+                location=self.extract_location(user.get('location')),
+                is_retweet=raw_post.retweet,
+                language=raw_post.language,
+                source_device=raw_post.source
+            )
+            
+            return cleansed
             
         except Exception as e:
-            print(f"Error processing post {post.get('ID')}: {str(e)}")
+            self.logger.error(f"Error processing post {post.get('ID')}: {str(e)}")
             return None
-
 
     async def remaining_posts(self):
         """Get count of remaining unprocessed posts"""
@@ -285,13 +359,13 @@ class DataCleansingService:
             )
             return response.get('Count', 0)
         except Exception as e:
-            logger.error(f"Error counting remaining posts: {str(e)}")
+            self.logger.error(f"Error counting remaining posts: {str(e)}")
             return 0
 
     async def process_batch(self):
         """Process batch of unprocessed raw posts with improved logging"""
         try:
-            logger.info("Starting batch processing...")
+            self.logger.debug("Starting batch processing...")  # Debug level for detailed logging
             scan_result = await self._scan_with_backoff(
                 FilterExpression=Attr('processed_flag').not_exists() | 
                             Attr('processed_flag').eq(ProcessedFlag.NOT_PROCESSED.value),
@@ -299,17 +373,17 @@ class DataCleansingService:
             )
             
             raw_posts = scan_result.get('Items', [])
-            logger.info(f"Found {len(raw_posts)} unprocessed posts in current batch")
+            self.logger.debug(f"Found {len(raw_posts)} unprocessed posts in current batch")
             
             if not raw_posts:
                 remaining = await self.remaining_posts()
-                logger.info(f"No posts in current batch. Total remaining: {remaining}")
+                self.logger.info(f"No posts in current batch. Total remaining: {remaining}")
                 return 0
 
             processed_count = 0
             for post in raw_posts:
                 try:
-                    logger.debug(f"Processing post {post.get('ID')}")
+                    self.logger.debug(f"Processing post {post.get('ID')}")
                     # Mark as processing
                     await self._update_with_backoff(
                         key={'ID': post['ID'], 'Date': post['Date']},
@@ -333,7 +407,7 @@ class DataCleansingService:
                             }
                         )
                         processed_count += 1
-                        logger.debug(f"Successfully processed post {post.get('ID')}")
+                        self.logger.debug(f"Successfully processed post {post.get('ID')}")
                     else:
                         await self._update_with_backoff(
                             key={'ID': post['ID'], 'Date': post['Date']},
@@ -343,47 +417,47 @@ class DataCleansingService:
                                 ':time': datetime.now().isoformat()
                             }
                         )
-                        logger.warning(f"Post {post.get('ID')} failed cleansing")
+                        self.logger.warning(f"Post {post.get('ID')} failed cleansing")
 
-                    # Add delay between posts due to low capacity
-                    await asyncio.sleep(1)
-                    
                 except Exception as e:
-                    logger.error(f"Error processing post {post.get('ID')}: {str(e)}")
+                    self.logger.error(f"Error processing post {post.get('ID')}: {str(e)}")
                     continue
 
-            logger.info(f"Batch complete. Processed {processed_count} posts successfully")
+            # Only log to console if there's an issue or significant progress
+            if processed_count == 0:
+                self.logger.warning(f"Batch complete but no posts were processed successfully")
+            else:
+                self.logger.info(f"Batch complete. Processed {processed_count} posts successfully")
             return processed_count
 
         except Exception as e:
-            logger.error(f"Batch processing error: {str(e)}")
+            self.logger.error(f"Batch processing error: {str(e)}")
             return 0
 
     async def process_daemon(self):
-        """Daemon process with improved logging and error handling"""
+        """Daemon process with improved logging"""
         while True:
             try:
                 remaining = await self.remaining_posts()
-                logger.info(f"Starting new processing cycle. Total remaining posts: {remaining}")
+                self.logger.info(f"Remaining posts to process: {remaining}")
                 
                 if remaining == 0:
-                    logger.info("No more posts to process")
+                    self.logger.warning("No more posts to process - shutting down")
                     break
                     
                 processed = await self.process_batch()
-                logger.info(f"Cycle complete. Processed {processed} posts. Remaining: {remaining - processed}")
                 
-                # Longer sleeps due to low capacity
+                # Only log to console if there's an issue
                 if processed == 0:
-                    logger.info("No posts processed in this cycle. Sleeping for 30 seconds...")
+                    self.logger.warning("No posts processed in this cycle. Sleeping for 30 seconds...")
                     await asyncio.sleep(30)
                 else:
-                    logger.info(f"Sleeping for 10 seconds before next cycle...")
+                    self.logger.debug(f"Sleeping for 10 seconds before next cycle...")
                     await asyncio.sleep(10)
                     
             except Exception as e:
-                logger.error(f"Daemon error: {str(e)}")
-                logger.info("Sleeping for 60 seconds due to error...")
+                self.logger.error(f"Daemon error: {str(e)}")
+                self.logger.warning("Sleeping for 60 seconds due to error...")
                 await asyncio.sleep(60)
 
     def start(self):
