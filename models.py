@@ -4,24 +4,38 @@ from datetime import datetime
 from enum import Enum
 
 
-
 class ProcessedFlag(Enum):
-    ERROR = -1
     NOT_PROCESSED = 0
-    PROCESSED = 1
+    PROCESSING = 1
+    PROCESSED = 2
+    ERROR = -1
 
-class TwitterPost(BaseModel):
-    id: str
-    username: str
-    content: str
-    created_at: datetime
-    retweet_count: int = Field(ge=0)
-    like_count: int = Field(ge=0)
-    reply_count: int = Field(ge=0)
-    hashtags: Optional[List[str]]
-    search_query: str
-    keywords: Optional[List[str]]
-    
+class PostMetrics(BaseModel):
+    replies: int = 0
+    retweets: int = 0
+    favorites: int = 0
+    views: int = 0
 
-    class Config:
-        orm_mode = True
+class Author(BaseModel):
+    id: Optional[str]
+    verified: bool = False
+    follower_count: int = 0
+
+class Location(BaseModel):
+    raw_location: str
+    state: Optional[str]
+
+class CleansedPost(BaseModel):
+    ID: str
+    Date: str
+    text: str
+    created_at: str
+    processed_at: str
+    candidates_mentioned: List[str]
+    parties_mentioned: List[str]
+    metrics: PostMetrics
+    author: Author
+    location: Optional[Location]
+    is_retweet: bool = False
+    language: Optional[str]
+    source_device: Optional[str]
