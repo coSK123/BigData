@@ -1,0 +1,638 @@
+2024-11-08 13:15:13,077 - cleansing - INFO - process_daemon:736 - Starting processing daemon with version v20241108_131513_2d4ef5ce
+2024-11-08 13:15:15,738 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:15:16,078 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851043813910876193
+2024-11-08 13:15:16,447 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852086194051649942
+2024-11-08 13:15:16,685 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851754004411256978
+2024-11-08 13:15:16,998 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853693796938108971
+2024-11-08 13:15:17,314 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1850988353937948870
+2024-11-08 13:15:17,567 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852834908755931597
+2024-11-08 13:15:17,911 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852818052515025328
+2024-11-08 13:15:18,184 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851934743886962706
+2024-11-08 13:15:18,559 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851271229589831815
+2024-11-08 13:15:18,799 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853174294215287275
+2024-11-08 13:15:18,862 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:15:18,863 - cleansing - INFO - process_daemon:746 - Processed 10 posts - sleeping for 10 seconds
+2024-11-08 13:31:20,979 - cleansing - INFO - process_daemon:736 - Starting processing daemon with version v20241108_133120_2d4ef5ce
+2024-11-08 13:31:24,780 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:31:25,050 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853193362431447434
+2024-11-08 13:31:25,250 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853475190304387568
+2024-11-08 13:31:25,626 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851386159089209832
+2024-11-08 13:31:25,944 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851255925677400301
+2024-11-08 13:31:26,199 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852838476200501292
+2024-11-08 13:31:26,471 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853211683227140234
+2024-11-08 13:31:26,753 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852477157588803596
+2024-11-08 13:31:27,032 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852712670777999588
+2024-11-08 13:31:27,349 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852569802725900547
+2024-11-08 13:31:27,640 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851993376243019965
+2024-11-08 13:31:27,711 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:31:27,711 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:31:34,816 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:31:35,146 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852826804198719956
+2024-11-08 13:31:35,352 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851355140952826087
+2024-11-08 13:31:35,610 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853235238820012301
+2024-11-08 13:31:35,890 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852186651272909250
+2024-11-08 13:31:36,082 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853174724509249848
+2024-11-08 13:31:36,389 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851767724134834260
+2024-11-08 13:31:36,649 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852369802347631062
+2024-11-08 13:31:37,056 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852455650892071191
+2024-11-08 13:31:37,246 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853088335595487281
+2024-11-08 13:31:37,625 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851321390944960515
+2024-11-08 13:31:37,697 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:31:37,698 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:31:41,777 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:31:41,968 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853088555972620392
+2024-11-08 13:31:42,182 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852011598753243566
+2024-11-08 13:31:42,411 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852749920442167569
+2024-11-08 13:31:42,795 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853584742999835091
+2024-11-08 13:31:43,388 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853192357216227760
+2024-11-08 13:31:43,575 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853257863679926610
+2024-11-08 13:31:43,909 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852145251282227312
+2024-11-08 13:31:44,609 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853184293788373309
+2024-11-08 13:31:44,813 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851769438866923952
+2024-11-08 13:31:45,117 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852854833285570566
+2024-11-08 13:31:45,183 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:31:45,184 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:31:49,619 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:31:49,986 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853493158354850219
+2024-11-08 13:31:50,483 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851975487129518511
+2024-11-08 13:31:50,773 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852476605664276502
+2024-11-08 13:31:51,008 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853217823549509972
+2024-11-08 13:31:51,430 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851367333916545402
+2024-11-08 13:31:51,692 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851357892915728418
+2024-11-08 13:31:52,171 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852856185881301152
+2024-11-08 13:31:52,571 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852974277642887377
+2024-11-08 13:31:52,989 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853584186634072307
+2024-11-08 13:31:53,367 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852806681421607041
+2024-11-08 13:31:53,442 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:31:53,443 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:31:57,306 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:31:57,589 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853549553904926865
+2024-11-08 13:31:57,916 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851358984264888791
+2024-11-08 13:31:58,214 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852494597601006045
+2024-11-08 13:31:58,400 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851001416959111258
+2024-11-08 13:31:58,668 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1850994969701462160
+2024-11-08 13:31:58,850 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853199371409690670
+2024-11-08 13:31:59,090 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852211803188543569
+2024-11-08 13:31:59,272 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852551427316441183
+2024-11-08 13:31:59,671 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852499942108995699
+2024-11-08 13:31:59,846 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851036770990735383
+2024-11-08 13:31:59,908 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:31:59,909 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:32:04,188 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:32:04,461 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852760377173696646
+2024-11-08 13:32:04,704 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853082291351797770
+2024-11-08 13:32:04,911 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852818591957102855
+2024-11-08 13:32:05,137 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853194147949170900
+2024-11-08 13:32:05,410 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852721610379174364
+2024-11-08 13:32:05,687 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851381076868161984
+2024-11-08 13:32:06,029 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853451133647458431
+2024-11-08 13:32:06,298 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851361570623807810
+2024-11-08 13:32:06,500 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851035374304301225
+2024-11-08 13:32:06,897 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852072936360022469
+2024-11-08 13:32:06,955 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:32:06,957 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:32:12,692 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:32:12,972 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852802451075698694
+2024-11-08 13:32:13,346 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852358750197125393
+2024-11-08 13:32:13,612 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853187880933617945
+2024-11-08 13:32:13,947 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852455453965377683
+2024-11-08 13:32:14,296 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852857381778055605
+2024-11-08 13:32:14,547 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853092722917163400
+2024-11-08 13:32:14,784 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852107060756017282
+2024-11-08 13:32:15,104 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851363432085205208
+2024-11-08 13:32:17,277 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853505169721381312
+2024-11-08 13:32:17,504 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852123434307797405
+2024-11-08 13:32:17,565 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:32:17,566 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:32:24,957 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:32:25,287 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853743621922537509
+2024-11-08 13:32:25,642 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851379510911860999
+2024-11-08 13:32:25,965 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853126753318821979
+2024-11-08 13:32:26,163 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853074869585416307
+2024-11-08 13:32:26,419 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853581261639413808
+2024-11-08 13:32:26,735 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852453669360533688
+2024-11-08 13:32:27,072 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853194646719004706
+2024-11-08 13:32:29,285 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853584915746459874
+2024-11-08 13:32:29,556 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851035578348757222
+2024-11-08 13:32:29,810 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853167083254870291
+2024-11-08 13:32:29,866 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:32:29,867 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:32:37,148 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:32:37,364 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851987208728621352
+2024-11-08 13:32:37,515 - cleansing - WARNING - process_batch:714 - Post 1853558876353728999 failed cleansing
+2024-11-08 13:32:37,796 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1850776324207784246
+2024-11-08 13:32:38,078 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851381965540507836
+2024-11-08 13:32:38,338 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852463320965783616
+2024-11-08 13:32:38,703 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852114739985305958
+2024-11-08 13:32:39,976 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852724456742875220
+2024-11-08 13:32:40,172 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851718678531772875
+2024-11-08 13:32:40,547 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852833063165726841
+2024-11-08 13:32:40,833 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852845262248845685
+2024-11-08 13:32:40,923 - cleansing - INFO - process_batch:726 - Batch complete. Processed 9 posts successfully
+2024-11-08 13:32:40,923 - cleansing - INFO - process_daemon:746 - Processed 9 posts
+2024-11-08 13:32:48,813 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:32:49,019 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851711421685379362
+2024-11-08 13:32:49,344 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852854830047379918
+2024-11-08 13:32:49,620 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853000149230117120
+2024-11-08 13:32:49,868 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853541657762988180
+2024-11-08 13:32:50,355 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851666184350912516
+2024-11-08 13:32:50,570 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852472989251785029
+2024-11-08 13:32:51,962 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851301531351650382
+2024-11-08 13:32:52,400 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852813087105056849
+2024-11-08 13:32:52,658 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851093927463469084
+2024-11-08 13:32:52,984 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851007972350075078
+2024-11-08 13:32:53,101 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:32:53,101 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:33:00,870 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:33:01,119 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851937568167698763
+2024-11-08 13:33:01,492 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851249389609644511
+2024-11-08 13:33:01,739 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851364666112397486
+2024-11-08 13:33:02,030 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853169855391785257
+2024-11-08 13:33:02,376 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853566495336370503
+2024-11-08 13:33:02,672 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853102755834909000
+2024-11-08 13:33:04,084 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853295446174601675
+2024-11-08 13:33:04,313 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853235758980583752
+2024-11-08 13:33:04,719 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853197661467553953
+2024-11-08 13:33:05,172 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852910574956315128
+2024-11-08 13:33:05,237 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:33:05,238 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:33:13,090 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:33:13,281 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851751135138210108
+2024-11-08 13:33:13,624 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851724254875935118
+2024-11-08 13:33:13,891 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851040583449731327
+2024-11-08 13:33:14,187 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853523473500356704
+2024-11-08 13:33:14,379 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852842959261012331
+2024-11-08 13:33:15,304 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851134200033722577
+2024-11-08 13:33:15,701 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852848947481424051
+2024-11-08 13:33:15,971 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853044262801223738
+2024-11-08 13:33:16,218 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852441577219821822
+2024-11-08 13:33:16,464 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852470363944337421
+2024-11-08 13:33:16,533 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:33:16,534 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:33:24,510 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:33:24,686 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851378504929268168
+2024-11-08 13:33:24,964 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852019012235919722
+2024-11-08 13:33:25,239 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852304655579267549
+2024-11-08 13:33:25,454 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851052342277279975
+2024-11-08 13:33:26,648 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853128812151664713
+2024-11-08 13:33:26,859 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853074654870769959
+2024-11-08 13:33:27,094 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851025269919719928
+2024-11-08 13:33:27,390 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852454365262454936
+2024-11-08 13:33:27,719 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852137731167551733
+2024-11-08 13:33:29,032 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853573636776657134
+2024-11-08 13:33:29,091 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:33:29,092 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:33:53,836 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:33:54,131 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852402793740439734
+2024-11-08 13:33:54,374 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852817969560092968
+2024-11-08 13:33:54,560 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851748274618970295
+2024-11-08 13:33:54,799 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851355457941582196
+2024-11-08 13:33:55,807 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851808627427869119
+2024-11-08 13:33:56,138 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852806753135562874
+2024-11-08 13:33:56,427 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853475218183835888
+2024-11-08 13:33:56,679 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853498306477039793
+2024-11-08 13:33:58,922 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852842140185063775
+2024-11-08 13:33:59,253 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851733323661423049
+2024-11-08 13:33:59,322 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:33:59,323 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 13:34:32,739 - cleansing - DEBUG - process_batch:661 - Found 10 unprocessed posts
+2024-11-08 13:34:32,989 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851768760501162115
+2024-11-08 13:34:33,412 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851037085551165557
+2024-11-08 13:34:33,725 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853073159978647631
+2024-11-08 13:34:34,017 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852138325106168224
+2024-11-08 13:34:34,348 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852452806982344918
+2024-11-08 13:34:34,730 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851038050811556160
+2024-11-08 13:34:35,118 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852082995701911956
+2024-11-08 13:34:35,385 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1851371853010649185
+2024-11-08 13:34:35,674 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1852439244691652950
+2024-11-08 13:34:37,099 - cleansing - DEBUG - process_batch:703 - Successfully processed post 1853109702248280206
+2024-11-08 13:34:37,173 - cleansing - INFO - process_batch:726 - Batch complete. Processed 10 posts successfully
+2024-11-08 13:34:37,175 - cleansing - INFO - process_daemon:746 - Processed 10 posts
+2024-11-08 14:10:08,744 - cleansing - INFO - process_daemon:798 - Starting processing daemon with version v20241108_141008_2d4ef5ce
+2024-11-08 14:10:15,772 - cleansing - DEBUG - process_batch:723 - Found 10 unprocessed posts
+2024-11-08 14:10:15,998 - cleansing - ERROR - cleanse_post:660 - Validation error processing post: 1 validation error for CleansedPost
+sentiments.trump.sentiment
+  Field required [type=missing, input_value={'entity': 'trump', 'comp...ment_label': 'negative'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2024-11-08 14:10:16,101 - cleansing - WARNING - process_batch:776 - Post 1851970864259932191 failed cleansing
+2024-11-08 14:10:16,362 - cleansing - DEBUG - process_batch:765 - Successfully processed post 1852905859942105439
+2024-11-08 14:10:16,556 - cleansing - ERROR - cleanse_post:660 - Validation error processing post: 1 validation error for CleansedPost
+sentiments.republican.sentiment
+  Field required [type=missing, input_value={'entity': 'republican', ...ment_label': 'positive'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2024-11-08 14:10:16,613 - cleansing - WARNING - process_batch:776 - Post 1851747382851252541 failed cleansing
+2024-11-08 14:10:16,867 - cleansing - DEBUG - process_batch:765 - Successfully processed post 1853070540858130943
+2024-11-08 14:10:16,973 - cleansing - ERROR - cleanse_post:660 - Validation error processing post: 1 validation error for CleansedPost
+sentiments.trump.sentiment
+  Field required [type=missing, input_value={'entity': 'trump', 'comp...iment_label': 'neutral'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2024-11-08 14:10:17,035 - cleansing - WARNING - process_batch:776 - Post 1851725195289202954 failed cleansing
+2024-11-08 14:10:17,193 - cleansing - ERROR - cleanse_post:660 - Validation error processing post: 1 validation error for CleansedPost
+sentiments.trump.sentiment
+  Field required [type=missing, input_value={'entity': 'trump', 'comp...ment_label': 'negative'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2024-11-08 14:10:17,244 - cleansing - WARNING - process_batch:776 - Post 1853551505032528195 failed cleansing
+2024-11-08 14:10:17,467 - cleansing - DEBUG - process_batch:765 - Successfully processed post 1853211429848904068
+2024-11-08 14:10:17,578 - cleansing - ERROR - cleanse_post:660 - Validation error processing post: 1 validation error for CleansedPost
+sentiments.trump.sentiment
+  Field required [type=missing, input_value={'entity': 'trump', 'comp...ment_label': 'negative'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2024-11-08 14:10:17,636 - cleansing - WARNING - process_batch:776 - Post 1853573282986955129 failed cleansing
+2024-11-08 14:10:17,909 - cleansing - DEBUG - process_batch:765 - Successfully processed post 1850938536649957769
+2024-11-08 14:10:18,051 - cleansing - ERROR - cleanse_post:660 - Validation error processing post: 1 validation error for CleansedPost
+sentiments.trump.sentiment
+  Field required [type=missing, input_value={'entity': 'trump', 'comp...ment_label': 'negative'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2024-11-08 14:10:18,125 - cleansing - WARNING - process_batch:776 - Post 1851653063917851081 failed cleansing
+2024-11-08 14:10:18,193 - cleansing - INFO - process_batch:788 - Batch complete. Processed 4 posts successfully
+2024-11-08 14:10:18,193 - cleansing - INFO - process_daemon:808 - Processed 4 posts
+2024-11-08 14:35:50,298 - cleansing - INFO - process_daemon:904 - Starting processing daemon with version v20241108_143550_2d4ef5ce
+2024-11-08 14:35:56,856 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 14:35:57,673 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852301477894652413
+2024-11-08 14:35:57,934 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851014631336116264
+2024-11-08 14:35:58,184 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853216005713011078
+2024-11-08 14:35:58,434 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853197921866629534
+2024-11-08 14:35:58,776 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850927469349441542
+2024-11-08 14:35:59,037 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851041389716406657
+2024-11-08 14:35:59,275 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851371617298894888
+2024-11-08 14:35:59,528 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852861885756145824
+2024-11-08 14:35:59,825 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852888972395221274
+2024-11-08 14:36:03,538 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852804304597647837
+2024-11-08 14:36:03,599 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 14:36:03,600 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 15:44:30,380 - cleansing - INFO - process_daemon:904 - Starting processing daemon with version v20241108_154430_2d4ef5ce
+2024-11-08 15:44:36,959 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 15:44:37,895 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851006873979199645
+2024-11-08 15:44:38,134 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850922445269500058
+2024-11-08 15:44:38,406 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852464749574799842
+2024-11-08 15:44:38,619 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853510160502894814
+2024-11-08 15:44:38,793 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852456070092030200
+2024-11-08 15:44:38,972 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852831900756263418
+2024-11-08 15:44:39,240 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851356571751907609
+2024-11-08 15:44:39,482 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851413422417854697
+2024-11-08 15:44:39,735 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851771718060154979
+2024-11-08 15:44:39,950 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852091321936126040
+2024-11-08 15:44:40,009 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 15:44:40,010 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:17:18,205 - cleansing - INFO - process_daemon:904 - Starting processing daemon with version v20241108_161718_2d4ef5ce
+2024-11-08 16:17:18,747 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:17:19,696 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851766536534712442
+2024-11-08 16:17:19,870 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851739251127521742
+2024-11-08 16:17:20,662 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853550896522707068
+2024-11-08 16:17:20,882 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851829011355209949
+2024-11-08 16:17:21,615 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852105799608238465
+2024-11-08 16:17:21,832 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851029081514787170
+2024-11-08 16:17:22,567 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850944836926349538
+2024-11-08 16:17:23,256 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851006307840508039
+2024-11-08 16:17:23,424 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851040353190887713
+2024-11-08 16:17:24,186 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852795548832850001
+2024-11-08 16:17:24,247 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:17:24,247 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:17:34,470 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:17:34,645 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851325370953580725
+2024-11-08 16:17:34,878 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851012299689189731
+2024-11-08 16:17:35,071 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852831516377903111
+2024-11-08 16:17:35,513 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851312204848754956
+2024-11-08 16:17:35,727 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852431382447833369
+2024-11-08 16:17:36,513 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850999785836462118
+2024-11-08 16:17:36,977 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853199535956234745
+2024-11-08 16:17:37,229 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853585595479498970
+2024-11-08 16:17:37,707 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851753498049724582
+2024-11-08 16:17:37,937 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851918091195654158
+2024-11-08 16:17:38,002 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:17:38,003 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:17:54,131 - cleansing - INFO - process_daemon:904 - Starting processing daemon with version v20241108_161754_2d4ef5ce
+2024-11-08 16:17:54,793 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:17:55,156 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852344076177138173
+2024-11-08 16:17:55,455 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851354003054989353
+2024-11-08 16:17:55,614 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852494106838393245
+2024-11-08 16:17:56,794 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853543512211353976
+2024-11-08 16:17:56,959 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852858578492600696
+2024-11-08 16:17:57,143 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852806759746097449
+2024-11-08 16:17:57,855 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850870110086733978
+2024-11-08 16:17:58,027 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851349432668766351
+2024-11-08 16:17:58,514 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851095661917392900
+2024-11-08 16:17:59,260 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851051062754500641
+2024-11-08 16:17:59,318 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:17:59,319 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:18:09,633 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:18:09,784 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852805289759887868
+2024-11-08 16:18:10,011 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852456367237300509
+2024-11-08 16:18:10,275 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853179324784079049
+2024-11-08 16:18:10,429 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852040436375822700
+2024-11-08 16:18:11,346 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852766982942118267
+2024-11-08 16:18:11,772 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852418525564154166
+2024-11-08 16:18:12,246 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851726755729477890
+2024-11-08 16:18:12,653 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850995215458349525
+2024-11-08 16:18:13,369 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851737610483347848
+2024-11-08 16:18:13,549 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853224369587175644
+2024-11-08 16:18:13,606 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:18:13,606 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:18:23,982 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:18:24,246 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852455130710388999
+2024-11-08 16:18:24,520 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852663079923826815
+2024-11-08 16:18:24,823 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852094106618528137
+2024-11-08 16:18:25,100 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851617248844394875
+2024-11-08 16:18:25,622 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852472049081384999
+2024-11-08 16:18:26,184 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852816703153185086
+2024-11-08 16:18:26,881 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852006530503315614
+2024-11-08 16:18:27,148 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852122233159979088
+2024-11-08 16:18:27,393 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853561970881876370
+2024-11-08 16:18:27,967 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851737213270130705
+2024-11-08 16:18:28,020 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:18:28,021 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:18:38,829 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:18:39,190 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851779475211800901
+2024-11-08 16:18:39,490 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852848224530309494
+2024-11-08 16:18:39,980 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853065105543491756
+2024-11-08 16:18:40,525 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852744239676850212
+2024-11-08 16:18:40,950 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853520161980154126
+2024-11-08 16:18:41,634 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852901102343098794
+2024-11-08 16:18:41,920 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852736438955033062
+2024-11-08 16:18:42,431 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852435526370066787
+2024-11-08 16:18:42,650 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850737488387559700
+2024-11-08 16:18:43,168 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852085087338201398
+2024-11-08 16:18:43,220 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:18:43,221 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:18:53,686 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:18:54,000 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853192431652757804
+2024-11-08 16:18:54,238 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851785650506260979
+2024-11-08 16:18:54,480 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851412243285483692
+2024-11-08 16:18:54,761 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852074884085748015
+2024-11-08 16:18:55,277 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851968586035736846
+2024-11-08 16:18:55,958 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853188068377018508
+2024-11-08 16:18:56,296 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851323247922467204
+2024-11-08 16:18:56,758 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851032463490818363
+2024-11-08 16:18:57,886 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852094918136668592
+2024-11-08 16:19:01,558 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853217509828169758
+2024-11-08 16:19:01,607 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:19:01,608 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:19:12,113 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:19:12,409 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851347711305433476
+2024-11-08 16:19:12,691 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851412197471289553
+2024-11-08 16:19:13,159 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851068476284084246
+2024-11-08 16:19:13,728 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851393882199658716
+2024-11-08 16:19:13,991 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851765195850285188
+2024-11-08 16:19:15,972 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851382610674786713
+2024-11-08 16:19:20,257 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851692081078481288
+2024-11-08 16:19:27,223 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852538698291699714
+2024-11-08 16:19:27,486 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851750339713565043
+2024-11-08 16:19:29,575 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851765741504057663
+2024-11-08 16:19:29,623 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:19:29,624 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:19:40,189 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:19:40,375 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852078860432515171
+2024-11-08 16:19:40,537 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853126016925041121
+2024-11-08 16:19:41,006 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852388783238295804
+2024-11-08 16:19:41,423 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852733887811670034
+2024-11-08 16:19:41,798 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851774008259190984
+2024-11-08 16:19:43,777 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852481761877397635
+2024-11-08 16:19:45,745 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853185747286712568
+2024-11-08 16:19:49,485 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852870294894948843
+2024-11-08 16:19:49,737 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853541784712057024
+2024-11-08 16:19:53,943 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852110645207912944
+2024-11-08 16:19:54,001 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:19:54,001 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:20:04,663 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:20:04,905 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853515319496822955
+2024-11-08 16:20:05,314 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851743653162815931
+2024-11-08 16:20:05,786 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852802862616867056
+2024-11-08 16:20:06,244 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851072279330922719
+2024-11-08 16:20:06,475 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853078743415193953
+2024-11-08 16:20:10,140 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853175039144927252
+2024-11-08 16:20:13,833 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851082639375012165
+2024-11-08 16:20:14,013 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852851817639731255
+2024-11-08 16:20:17,723 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852857257710506410
+2024-11-08 16:20:21,434 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852479501135139096
+2024-11-08 16:20:21,493 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:20:21,494 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:20:32,221 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:20:32,488 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852839834865344663
+2024-11-08 16:20:32,729 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851807588012245006
+2024-11-08 16:20:32,902 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851371412516196569
+2024-11-08 16:20:33,367 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850983625480675531
+2024-11-08 16:20:33,911 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853208783779963017
+2024-11-08 16:20:34,909 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852469358666330173
+2024-11-08 16:20:38,614 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853454405078544687
+2024-11-08 16:20:38,858 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853576972766498885
+2024-11-08 16:20:42,539 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853191493520966097
+2024-11-08 16:20:46,445 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852855555704123534
+2024-11-08 16:20:46,518 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:20:46,519 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:20:57,248 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:20:57,424 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853098582175256908
+2024-11-08 16:20:57,956 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853559286783250640
+2024-11-08 16:20:58,405 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852009897128530183
+2024-11-08 16:20:58,915 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853189605039976652
+2024-11-08 16:21:02,738 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852050084168425898
+2024-11-08 16:21:03,035 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852815545130696867
+2024-11-08 16:21:06,715 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853224293837984200
+2024-11-08 16:21:08,721 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851765618606800950
+2024-11-08 16:21:12,374 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852839455876366557
+2024-11-08 16:21:16,086 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851730321341059476
+2024-11-08 16:21:16,142 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:21:16,143 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:21:26,970 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:21:27,200 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851949740365340717
+2024-11-08 16:21:27,469 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851412405798031436
+2024-11-08 16:21:27,858 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852399492542140627
+2024-11-08 16:21:28,361 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852441217184985562
+2024-11-08 16:21:28,837 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851375367379988645
+2024-11-08 16:21:30,859 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850988679470194743
+2024-11-08 16:21:34,514 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852881614751309982
+2024-11-08 16:21:38,218 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851776136117916147
+2024-11-08 16:21:40,267 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851028759832592762
+2024-11-08 16:21:43,971 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851770615138541785
+2024-11-08 16:21:44,027 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:21:44,028 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:21:55,285 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:21:55,565 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851412389050392914
+2024-11-08 16:21:55,894 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850955845195989052
+2024-11-08 16:21:56,376 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851767589711610145
+2024-11-08 16:21:56,875 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851745937124635047
+2024-11-08 16:21:57,128 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851400259613732884
+2024-11-08 16:21:57,615 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853019561915769116
+2024-11-08 16:21:59,679 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852493121348673622
+2024-11-08 16:21:59,844 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852342815893889516
+2024-11-08 16:22:03,504 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852138467548856704
+2024-11-08 16:22:07,226 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851008665630994500
+2024-11-08 16:22:07,286 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:22:07,287 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:22:18,198 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:22:18,437 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851987731766772143
+2024-11-08 16:22:18,672 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851912971762446347
+2024-11-08 16:22:18,932 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851381675667685447
+2024-11-08 16:22:19,675 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851401742669271169
+2024-11-08 16:22:19,947 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852410138239320495
+2024-11-08 16:22:21,964 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852737237575725150
+2024-11-08 16:22:24,039 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853563513463074978
+2024-11-08 16:22:27,774 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850990552931795132
+2024-11-08 16:22:29,836 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850991170278543843
+2024-11-08 16:22:31,031 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853276988448141340
+2024-11-08 16:22:31,085 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:22:31,086 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:22:42,057 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:22:42,252 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853577583650062356
+2024-11-08 16:22:42,490 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852431908363284983
+2024-11-08 16:22:42,781 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853054744291627284
+2024-11-08 16:22:43,667 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852689838354366781
+2024-11-08 16:22:44,815 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851370055222563069
+2024-11-08 16:22:48,541 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853203991854825608
+2024-11-08 16:22:50,474 - cleansing - WARNING - process_batch:882 - Post 1851772073380651367 failed cleansing
+2024-11-08 16:22:54,279 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850996570554028416
+2024-11-08 16:22:54,506 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853587056842407942
+2024-11-08 16:22:58,175 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853736939007975702
+2024-11-08 16:22:58,241 - cleansing - INFO - process_batch:894 - Batch complete. Processed 9 posts successfully
+2024-11-08 16:22:58,242 - cleansing - INFO - process_daemon:914 - Processed 9 posts
+2024-11-08 16:23:09,255 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:23:09,505 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852094453713928651
+2024-11-08 16:23:09,876 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851022793972072647
+2024-11-08 16:23:10,371 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853099159253082426
+2024-11-08 16:23:10,663 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851750602730074435
+2024-11-08 16:23:10,942 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852356750126846072
+2024-11-08 16:23:11,632 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852653101427171734
+2024-11-08 16:23:15,353 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852695669812732104
+2024-11-08 16:23:16,577 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851400230505259069
+2024-11-08 16:23:20,235 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851827032964862411
+2024-11-08 16:23:20,460 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851984016674578439
+2024-11-08 16:23:20,516 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:23:20,517 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:23:31,595 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:23:31,870 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852019214938190281
+2024-11-08 16:23:32,167 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853582849624170549
+2024-11-08 16:23:32,897 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851012737843057076
+2024-11-08 16:23:33,123 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852822761246220798
+2024-11-08 16:23:33,345 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851969826677248380
+2024-11-08 16:23:37,063 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852497303686336798
+2024-11-08 16:23:37,311 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851767484397084807
+2024-11-08 16:23:40,939 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853084422251176442
+2024-11-08 16:23:45,100 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851792719980437837
+2024-11-08 16:23:48,747 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852727332554907894
+2024-11-08 16:23:48,803 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:23:48,804 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:23:59,907 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:24:00,123 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852445601062895798
+2024-11-08 16:24:00,481 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851773184170754542
+2024-11-08 16:24:00,734 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851392579901816875
+2024-11-08 16:24:01,077 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851012390223007900
+2024-11-08 16:24:01,524 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853083244910231777
+2024-11-08 16:24:03,593 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852075854047633492
+2024-11-08 16:24:07,268 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851014357091840204
+2024-11-08 16:24:07,435 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853549724793782332
+2024-11-08 16:24:09,427 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852494163054403782
+2024-11-08 16:24:13,077 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851217801651876131
+2024-11-08 16:24:13,132 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:24:13,133 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:24:24,343 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:24:24,509 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852084241699615056
+2024-11-08 16:24:24,982 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851021127235109177
+2024-11-08 16:24:25,535 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851480744352211019
+2024-11-08 16:24:25,710 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851411807702773765
+2024-11-08 16:24:25,886 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851738282477900102
+2024-11-08 16:24:28,105 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851039876310839796
+2024-11-08 16:24:31,921 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851051024104001702
+2024-11-08 16:24:32,148 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853222732671991919
+2024-11-08 16:24:35,914 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853496213028393409
+2024-11-08 16:24:36,658 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852743139146015072
+2024-11-08 16:24:36,708 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:24:36,709 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:24:47,961 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:24:48,220 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853202310907789357
+2024-11-08 16:24:48,568 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853199675433635895
+2024-11-08 16:24:48,795 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853166682040103367
+2024-11-08 16:24:49,216 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851841832398815720
+2024-11-08 16:24:49,917 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852818913534296277
+2024-11-08 16:24:54,247 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850985362115740100
+2024-11-08 16:24:54,465 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851021382030684412
+2024-11-08 16:24:58,778 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852668637431140404
+2024-11-08 16:25:02,432 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851679656111411561
+2024-11-08 16:25:03,262 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852463961968381959
+2024-11-08 16:25:03,322 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:25:03,322 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:25:14,580 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:25:14,823 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852800132380832108
+2024-11-08 16:25:15,055 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851768517613498701
+2024-11-08 16:25:15,333 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851988920332157290
+2024-11-08 16:25:15,663 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852832188578099230
+2024-11-08 16:25:17,725 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852839519642407075
+2024-11-08 16:25:17,951 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851125750331576755
+2024-11-08 16:25:23,532 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850705312975913420
+2024-11-08 16:25:27,281 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852171511789969564
+2024-11-08 16:25:27,480 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853225326249202146
+2024-11-08 16:25:31,194 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853397899800985733
+2024-11-08 16:25:31,250 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:25:31,251 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:25:42,598 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:25:42,834 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852469883084366062
+2024-11-08 16:25:43,191 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851411973361275251
+2024-11-08 16:25:43,742 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852409267619573939
+2024-11-08 16:25:44,240 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851927455268774289
+2024-11-08 16:25:48,005 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852441277909868559
+2024-11-08 16:25:48,259 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852427002999124092
+2024-11-08 16:25:52,478 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852846470501924894
+2024-11-08 16:25:52,777 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853208690934882479
+2024-11-08 16:25:56,491 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852896180532855200
+2024-11-08 16:26:00,195 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853547109209014301
+2024-11-08 16:26:00,258 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:26:00,259 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:26:11,666 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:26:11,837 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852126092678537680
+2024-11-08 16:26:12,323 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853501120322166805
+2024-11-08 16:26:12,749 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851000611518476692
+2024-11-08 16:26:12,995 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853220624254062868
+2024-11-08 16:26:13,421 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852351205315404112
+2024-11-08 16:26:14,155 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851757871953772919
+2024-11-08 16:26:17,861 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851347982072889619
+2024-11-08 16:26:19,024 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851344697761189948
+2024-11-08 16:26:25,968 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853579507992547653
+2024-11-08 16:26:26,198 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851971857030717679
+2024-11-08 16:26:26,248 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:26:26,249 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:26:37,655 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:26:37,825 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851084763982897320
+2024-11-08 16:26:38,062 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853580431339180528
+2024-11-08 16:26:38,419 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853547742083031255
+2024-11-08 16:26:38,969 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852457597934383391
+2024-11-08 16:26:40,143 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852051234666221895
+2024-11-08 16:26:43,875 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851752515672445272
+2024-11-08 16:26:45,925 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851043813910876193
+2024-11-08 16:26:46,168 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852086194051649942
+2024-11-08 16:26:49,877 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851754004411256978
+2024-11-08 16:26:50,141 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853693796938108971
+2024-11-08 16:26:50,192 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:26:50,193 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:27:01,738 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:27:01,983 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851808757363233142
+2024-11-08 16:27:02,213 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1850988353937948870
+2024-11-08 16:27:02,540 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852834908755931597
+2024-11-08 16:27:03,013 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852818052515025328
+2024-11-08 16:27:03,438 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851934743886962706
+2024-11-08 16:27:07,214 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851271229589831815
+2024-11-08 16:27:08,379 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853174294215287275
+2024-11-08 16:27:08,539 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853193362431447434
+2024-11-08 16:27:12,199 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853475190304387568
+2024-11-08 16:27:15,927 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851386159089209832
+2024-11-08 16:27:15,974 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:27:15,975 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:27:27,536 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:27:27,813 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851255925677400301
+2024-11-08 16:27:28,159 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852838476200501292
+2024-11-08 16:27:28,656 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853211683227140234
+2024-11-08 16:27:29,087 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852477157588803596
+2024-11-08 16:27:31,144 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852712670777999588
+2024-11-08 16:27:31,306 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852569802725900547
+2024-11-08 16:27:35,511 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851993376243019965
+2024-11-08 16:27:39,232 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852826804198719956
+2024-11-08 16:27:42,862 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851355140952826087
+2024-11-08 16:27:43,090 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853235238820012301
+2024-11-08 16:27:43,143 - cleansing - INFO - process_batch:894 - Batch complete. Processed 10 posts successfully
+2024-11-08 16:27:43,144 - cleansing - INFO - process_daemon:914 - Processed 10 posts
+2024-11-08 16:27:58,213 - cleansing - DEBUG - process_batch:829 - Found 10 unprocessed posts
+2024-11-08 16:27:58,384 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852186651272909250
+2024-11-08 16:27:58,551 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853174724509249848
+2024-11-08 16:27:59,070 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851767724134834260
+2024-11-08 16:27:59,554 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852369802347631062
+2024-11-08 16:27:59,833 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1852455650892071191
+2024-11-08 16:28:00,256 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853088335595487281
+2024-11-08 16:28:00,529 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1851321390944960515
+2024-11-08 16:28:00,954 - cleansing - DEBUG - process_batch:871 - Successfully processed post 1853088555972620392

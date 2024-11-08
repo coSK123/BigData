@@ -1,0 +1,27 @@
+2024-11-08 16:24:56,771 - dashboard - INFO - main:1366 - Starting dashboard application
+2024-11-08 16:24:56,774 - dashboard - INFO - main:1366 - Starting dashboard application
+2024-11-08 16:25:01,161 - dashboard - ERROR - main:1452 - Error in engagement analysis: "Column(s) ['engagement_score', 'verified'] do not exist"
+2024-11-08 16:25:03,451 - dashboard - ERROR - main:1488 - Error in virality analysis: Value of 'color' is not the name of a column in 'data_frame'. Expected one of ['text', 'candidate', 'engagement_score', 'quality_score', 'sentiment_score', 'follower_count', 'virality_score'] but received: Candidate
+2024-11-08 16:25:03,487 - dashboard - ERROR - main:1500 - Error in correlation analysis: could not convert string to float: 'Unknown'
+2024-11-08 16:25:03,517 - dashboard - ERROR - main:1512 - Error in comparative analysis: Value of 'color' is not the name of a column in 'data_frame'. Expected one of ['candidate', 'metric', 'value'] but received: Candidate
+2024-11-08 16:25:12,599 - dashboard - INFO - main:1366 - Starting dashboard application
+2024-11-08 16:25:18,268 - dashboard - INFO - main:1366 - Starting dashboard application
+2024-11-08 16:25:19,697 - dashboard - ERROR - main:1452 - Error in engagement analysis: "Column(s) ['engagement_score', 'verified'] do not exist"
+2024-11-08 16:25:20,055 - dashboard - INFO - main:1366 - Starting dashboard application
+2024-11-08 16:25:42,543 - dashboard - INFO - main:1366 - Starting dashboard application
+2024-11-08 16:25:44,111 - dashboard - ERROR - main:1452 - Error in engagement analysis: "Column(s) ['engagement_score', 'verified'] do not exist"
+2024-11-08 16:25:44,481 - dashboard - ERROR - main:1488 - Error in virality analysis: Value of 'color' is not the name of a column in 'data_frame'. Expected one of ['text', 'candidate', 'engagement_score', 'quality_score', 'sentiment_score', 'follower_count', 'virality_score'] but received: Candidate
+2024-11-08 16:25:44,507 - dashboard - ERROR - main:1500 - Error in correlation analysis: could not convert string to float: 'Unknown'
+2024-11-08 16:25:44,532 - dashboard - ERROR - main:1512 - Error in comparative analysis: Value of 'color' is not the name of a column in 'data_frame'. Expected one of ['candidate', 'metric', 'value'] but received: Candidate
+2024-11-08 16:25:45,263 - dashboard - INFO - main:1366 - Starting dashboard application
+2024-11-08 16:25:46,218 - dashboard - INFO - main:1366 - Starting dashboard application
+2024-11-08 16:25:47,822 - dashboard - ERROR - main:1452 - Error in engagement analysis: "Column(s) ['engagement_score', 'verified'] do not exist"
+2024-11-08 16:25:51,938 - dashboard - ERROR - main:1488 - Error in virality analysis: Value of 'color' is not the name of a column in 'data_frame'. Expected one of ['text', 'candidate', 'engagement_score', 'quality_score', 'sentiment_score', 'follower_count', 'virality_score'] but received: Candidate
+2024-11-08 16:25:51,968 - dashboard - ERROR - main:1500 - Error in correlation analysis: could not convert string to float: 'Unknown'
+2024-11-08 16:25:51,994 - dashboard - ERROR - main:1512 - Error in comparative analysis: Value of 'color' is not the name of a column in 'data_frame'. Expected one of ['candidate', 'metric', 'value'] but received: Candidate
+2024-11-08 16:25:54,153 - dashboard - INFO - main:1366 - Starting dashboard application
+2024-11-08 16:25:55,518 - dashboard - INFO - main:1366 - Starting dashboard application
+2024-11-08 16:25:57,532 - dashboard - ERROR - main:1452 - Error in engagement analysis: "Column(s) ['engagement_score', 'verified'] do not exist"
+2024-11-08 16:26:00,217 - dashboard - ERROR - main:1488 - Error in virality analysis: Value of 'color' is not the name of a column in 'data_frame'. Expected one of ['text', 'candidate', 'engagement_score', 'quality_score', 'sentiment_score', 'follower_count', 'virality_score'] but received: Candidate
+2024-11-08 16:26:00,248 - dashboard - ERROR - main:1500 - Error in correlation analysis: could not convert string to float: 'Unknown'
+2024-11-08 16:26:00,293 - dashboard - ERROR - main:1512 - Error in comparative analysis: Value of 'color' is not the name of a column in 'data_frame'. Expected one of ['candidate', 'metric', 'value'] but received: Candidate
